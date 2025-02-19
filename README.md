@@ -1,4 +1,4 @@
-# Sentinel-Attack-Lab
+# Sentinel-Honeypot-Lab
 
 ## Objective
   
