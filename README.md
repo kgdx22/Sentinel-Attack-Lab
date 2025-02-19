@@ -70,7 +70,7 @@ E: Attack Maps:
 <br>
 <br>
 
-A: Map showing layout of Resource Group including virtual machine, virtual network, workbooks, DCR, LAW, and virtual network security group   
+A: Map showing layout of Resource Group including virtual machine, virtual network, workbooks, DCR, LAW, and virtual network security group <br/>
 
 B: Windows Virtual Machine started inside of Azure with Windows Firewall turned off<br/>
 
@@ -79,6 +79,7 @@ C: Initial log query run in Azure that displays the first **561** failed login a
 D: A more detailed query that contains a watchlist allowing us to locate the attacker. Results now return in order of last event.<br/>
 
 E: Progressing Attack Maps that display location and frequency of attackers targeting the virtual machine 
+
 
 ## Conclusion
 
